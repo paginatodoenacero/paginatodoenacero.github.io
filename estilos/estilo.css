@@ -230,6 +230,10 @@ main {
 	padding: 20px;
 }
 
+.tabla_telefono {
+	margin: 0 auto;
+}
+
 @media only screen and (min-width: 600px) {
     
 }
@@ -274,6 +278,10 @@ main {
 		background-color: #0971b2;
 		float: right;
 		position: relative;
+	}
+
+	.tabla_telefono {
+		float:right;
 	}
 
     .banner {
