@@ -61,7 +61,7 @@ main {
 }
 
 .info_superior .telefono {
-	font-size: 2em;
+	font-size: 1.9em;
 }
 
 .contenedor {
@@ -266,12 +266,7 @@ main {
     	left: 0;
     	top: 0;
     	position: relative;
-		width: 250px;
 		text-align: left;
-    }
-
-    .menu {
-		margin: 46px 0px 0px 20px;
     }
 
 	.info_superior {
@@ -340,6 +335,15 @@ main {
 	body {
 		background-color: ff00ff;
 	}
+
+    .menu {
+		margin: 46px 0px 0px 20px;
+    }
+	
+    .logotipo {
+		width: 250px;
+		
+    }
 
 }
 
